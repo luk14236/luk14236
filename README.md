@@ -7,4 +7,4 @@ Hey folks! This is Lucas Oliveira, an relentless explorer of the data world and 
 
 📫 How to reach me: Drop me an email at luk14236@gmail.com or connect with me on LinkedIn: linkedin.com/in/luk1.
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
