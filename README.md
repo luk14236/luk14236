@@ -3,7 +3,7 @@
 **Senior Data Engineer** at BAS World in the Netherlands. I build data platforms that people depend on.
 
 - 🔥 Spent five years at **INPE** (Brazil's National Institute for Space Research) on the national fire monitoring program: ETL pipelines over 200+ million records, feeding Civil Defense and environmental agencies across Brazil.
-- ☁️ Today I build event-driven pipelines on **AWS** (Lambda, Step Functions, Glue, Redshift) with **Airbyte**, **Dagster**, **dbt** and **Terraform**.
+- ☁️ Today I build event-driven pipelines on **AWS** (Lambda, Step Functions, Glue, Redshift) with **Airbyte**, **Dagster** and **Terraform**, and contribute to the team's **dbt** models.
 - 🤖 I build with AI every day: I design the system and drive implementation with **Claude agents**, **MCP integrations** and **Lovable**.
 - 🎮 Creator of **[The Data Forge](https://thedataforge.dev)**, a gamified learning platform for data engineers (32 courses, 400+ hands-on exercises).
 - 📚 Also a published sci-fi fantasy author, as L.S. Sandoval.
